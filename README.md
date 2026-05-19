@@ -14,6 +14,9 @@ MetaEcho connects your cartoon/custom characters to MetaHuman rigs instantly. It
 
 ## Demo
 
+https://github.com/user-attachments/assets/dd720a30-599c-4971-aded-82a16522abc1
+
+
 https://github.com/user-attachments/assets/demo01.mp4
 
 <video src="images/demo01.mp4" controls width="100%"></video>
