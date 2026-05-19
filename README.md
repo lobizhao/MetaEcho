@@ -12,14 +12,14 @@ MetaHuman delivers incredible facial performance via Live Link. But most develop
 
 MetaEcho connects your cartoon/custom characters to MetaHuman rigs instantly. It empowers every developer to create high-quality facial animations without any rigging or animation expertise.
 
-## Demo
+<!-- ## Demo
 
 https://github.com/user-attachments/assets/dd720a30-599c-4971-aded-82a16522abc1
 
 
-https://github.com/user-attachments/assets/demo01.mp4
+https://github.com/user-attachments/assets/demo01.mp4 -->
 
-<video src="images/demo01.mp4" controls width="100%"></video>
+<!-- <video src="images/demo01.mp4" controls width="100%"></video> -->
 
 ## How It Works
 
